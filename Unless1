@@ -1,0 +1,4 @@
+problem = false
+print "Good!" 
+unless problem
+end
