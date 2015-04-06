@@ -1,0 +1,8 @@
+# test_1 should be false
+test_1 = 10 < 8
+
+# test_2 = should be false
+test_2 = 8 > 10
+
+# test_3 = should be true
+test_3 = 8 < 10
