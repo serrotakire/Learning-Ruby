@@ -1,0 +1,19 @@
+print "What is your first name?"
+first_name=gets.chomp
+print "What is your cell phone number?"
+cell_number=gets.chomp
+print "What is your truck number?"
+unit=gets.chomp
+print "What year is your truck?"
+year=gets.chomp
+print "Manufacturer?"
+mfg=gets.chomp
+print "Model?"
+model=gets.chomp
+print "Last 8 of VIN?"
+vin=gets.chomp
+
+puts "Hello #{first_name}! You can be reached at #{cell_number} and today we are working on your #{year}
+#{mfg} #{model} with a chassis number of #{vin}. Does this all seem correct?"
+
+
